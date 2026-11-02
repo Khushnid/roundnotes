@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khushnid.github.io/roundnotes/sitemap.xml
